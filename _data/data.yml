@@ -115,15 +115,15 @@ experiences:
         company: Cabinet de géomètres AXIS-Conseils à Vonnas (01)
         details: |
 
-# projects:
-#     title: Projects
-#     intro: >
-#       You can list your side projects in this
+projects:
+    title: Projects
+    intro: >
+      Projets suivi à titre professionnel, extra-professionnel ou personnel
 #       section.
-#     assignments:
-#       - title: Velocity
-#         link: "#hook"
-#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    assignments:
+      - title: Projet Domotique avec HomeAssistant et Node Red
+        link: "https://www.home-assistant.io/"
+        tagline: "Optimisation des consommations d'énergie, gestion des ouvertures de volets selon horaires et climat et alarme"
 
 #       - title: DevStudio
 #         link: "#"
