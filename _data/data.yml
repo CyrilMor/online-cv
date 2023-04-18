@@ -184,12 +184,15 @@ skills:
     title: Compétences
     toolset:
       - name: Outils bureautique (MS office,...)
-        level: 100%        
+        level: 100%
 
       - name: GLPI
         level: 100%
 
       - name: Outils DAO (AutoCAD & COVADIS)
+        level: 100%
+
+      - name: Gestion de Formation
         level: 100%
 
       - name: Batch & Powershell
