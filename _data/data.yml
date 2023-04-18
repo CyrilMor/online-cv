@@ -115,15 +115,20 @@ experiences:
         company: Cabinet de géomètres AXIS-Conseils à Vonnas (01)
         details: |
 
-projects:
+projets:
     title: Projects
     intro: >
-      Projets suivi à titre professionnel, extra-professionnel ou personnel
+      Projets suivis à titre professionnel, extra-professionnel ou personnel
 #       section.
     assignments:
-      - title: Projet Domotique avec HomeAssistant et Node Red
+      - title: HomeAssistant
         link: "https://www.home-assistant.io/"
-        tagline: "Optimisation des consommations d'énergie, gestion des ouvertures de volets selon horaires et climat et alarme"
+        tagline: "Gestion Domotique avec HomeAssistant: Commande des volets roulants, Eclairage, Vidéosurveillance, Alarme,..."
+      
+      - title: Node Red
+        link: "https://nodered.org/"
+        tagline: "Ajout du module Node-Red pour gestion flux: Optimisation des consommations d'énergie, Optimisation des ouvertures de volets selon horaires et météo, Alertes incendie,..."
+        
 # projects:
 #     title: Projects
 #     intro: >
