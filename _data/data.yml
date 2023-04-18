@@ -92,8 +92,8 @@ experiences:
            - Déploiement et paramétrage de postes de travail (MDT)
            - Gestion des utilisateurs
            - Gestion Active Directory (droits d’accès dans annuaire Active Directory et création de script GPO)
-           – Administration de messagerie Exchange
            - Administration de Windows (7, 10 & 11)
+           – Administration de messagerie Exchange          
            - Virtualisation de serveur (VMware, VirtualBox,ProxMox)
            - Utilisation quotidienne de Linux (Debian, Ubuntu)
            - Utilisation de gestionnaire de paquets (Chocolatey, npm, apt)
