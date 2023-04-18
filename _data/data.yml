@@ -98,7 +98,7 @@ experiences:
            - Utilisation quotidienne de Linux (Debian, Ubuntu)
            - Utilisation de gestionnaire de paquets (Chocolatey, npm, apt)
            - Gestion de réseaux (IPv4 / VLAN)
-           - Bases de données relationnelles (XAMPP, MySQL, Access, requêtes SQL..)
+           - Bases de données relationnelles (XAMPP, MySQL, requêtes SQL, Access,...)
            - Notions ITIL
            - Utilisation du logiciel DeepFreeze pour gestion postes travail dans écoles
       - role: Technicien études et programmation
@@ -107,13 +107,16 @@ experiences:
         details: |
           Conception et gestion de projet de Voirie et Réseaux Divers
             - Modélisation du réseau routier sur SIG (logiciel QGIS) pour optimiser la gestion patrimoniale
-            - Développement d’outils internes en HTML pour optimiser les procédures internes
+            - Développement d’outils internes en HTML/CSS pour optimiser les procédures internes
             - Administration du logiciel de services techniques ATAL (basé sur SQL Server)
 
       - role: Maître d'oeuvre (VRD)
         time: 2009 - 2012
         company: Cabinet de géomètres AXIS-Conseils à Vonnas (01)
         details: |
+          Conception et gestion de projet de Voirie et Réseaux Divers
+          Suivi de chantiers
+          Gestion des procédures d'appel d'offres
 
 projets:
     title: Projects
@@ -124,7 +127,7 @@ projets:
       - title: HomeAssistant
         link: "https://www.home-assistant.io/"
         tagline: "Gestion Domotique avec HomeAssistant: Commande des volets roulants, Eclairage, Vidéosurveillance, Alarme,..."
-      
+
       - title: Node Red
         link: "https://nodered.org/"
         tagline: "Ajout du module Node-Red pour gestion flux: Optimisation des consommations d'énergie, Optimisation des ouvertures de volets selon horaires et météo, Alertes incendie,..."
