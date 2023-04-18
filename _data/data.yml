@@ -101,6 +101,14 @@ experiences:
            - Bases de données relationnelles (XAMPP, MySQL, requêtes SQL, Access,...)
            - Notions ITIL
            - Utilisation du logiciel DeepFreeze pour gestion postes travail dans écoles
+           
+      - role: Formateur secourisme
+        time: Depuis 2012
+        company: SDIS01 et UDSP01
+        details: |
+           - Formation Grand Public PSC1 / SST / PSE1
+           - Formation Sapeurs-Pompiers Formation Initiale et Continue
+           
       - role: Technicien études et programmation
         time: 2012 à 2017
         company: Communauté de communes de Montrevel-en-B. (01)
