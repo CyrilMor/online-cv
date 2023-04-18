@@ -129,13 +129,12 @@ experiences:
 projects:
     title: Projets
     intro: >
-      Projets suivis à titre professionnel, extra-professionnel ou personnel
+      Projets suivis à titre professionnel, extra-professionnel ou personnel:
 #       section.
     assignments:
       - title: HomeAssistant
         link: "https://www.home-assistant.io/"
         tagline: "Gestion Domotique: Commande des volets roulants, Eclairage, Vidéosurveillance, Alarme,..."
-
       - title: Node Red
         link: "https://nodered.org/"
         tagline: "Ajout du module à Home-Assistant pour gestion flux: Optimisation des consommations d'énergie, Optimisation des ouvertures de volets selon horaires et météo, Alertes incendie,..."
