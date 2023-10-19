@@ -198,7 +198,10 @@ skills:
         level: 95%
 
       - name: Planification de projets
-        level: 90%        
+        level: 90%     
+
+      - name: Linux (Ubuntu / Debian)
+        level: 85%
 
       - name: Java
         level: 80%
