@@ -85,7 +85,48 @@ education:
 experiences:
     title: Expériences
     info:
-      - role: Chargé de projet informatique
+      - role: Responsable informatique
+        time: Depuis 2023
+        company: SOGEST ADC (71)
+        details: |
+           - Gestion de parc informatique
+           - Administration système et réseau
+           - Déploiement et paramétrage de postes de travail
+           - Gestion des utilisateurs
+           - Gestion Active Directory (droits d’accès dans annuaire Active Directory et création de script GPO)
+           - Administration de Windows (10 & 11)
+           - Administration de messagerie Exchange dur office 365
+           - Virtualisation de serveur (VMware, VirtualBox,ProxMox)
+           - Utilisation quotidienne de Linux (Debian, Ubuntu)
+           - Utilisation de gestionnaire de paquets (Chocolatey, npm, apt)
+           - Gestion de réseaux (IPv4 / VLAN)
+           - Bases de données relationnelles (XAMPP, MySQL, requêtes SQL, Access,...)
+           - Notions ITIL
+          - role: Chargé de projet informatique
+        time: Depuis 2017
+        company: Communauté d’Agglomération du Bassin de Bourg-en-B (01)
+        details: |
+         Gestion de parc informatique (1600 PC et 1800 utilisateurs pour 18 collectivités), système et réseau
+           - Déploiement et paramétrage de postes de travail (MDT)
+           - Gestion des utilisateurs
+           - Gestion Active Directory (droits d’accès dans annuaire Active Directory et création de script GPO)
+           - Administration de Windows (7, 10 & 11)
+           - Administration de messagerie Exchange
+           - Virtualisation de serveur (VMware, VirtualBox,ProxMox)
+           - Utilisation quotidienne de Linux (Debian, Ubuntu)
+           - Utilisation de gestionnaire de paquets (Chocolatey, npm, apt)
+           - Gestion de réseaux (IPv4 / VLAN)
+           - Bases de données relationnelles (XAMPP, MySQL, requêtes SQL, Access,...)
+           - Notions ITIL
+           - Utilisation du logiciel DeepFreeze pour gestion postes travail dans écoles
+           
+      - role: Formateur secourisme
+        time: Depuis 2012
+        company: SDIS01 et UDSP01
+        details: |
+           - Formation Grand Public PSC1 / SST / PSE1
+           - Formation Sapeurs-Pompiers Formation Initiale et Continue
+             - role: Chargé de projet informatique
         time: Depuis 2017
         company: Communauté d’Agglomération du Bassin de Bourg-en-B (01)
         details: |
