@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name:  Cyril MOREL
-    tagline: Chargé de projet informatique
+    tagline: Chargé de projets informatique
     avatar: profile2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar
@@ -90,7 +90,6 @@ experiences:
             - Gestion de parc informatique
             - Administration système et réseau
             - Déploiement et paramétrage de postes de travail
-            - Gestion des utilisateurs
             - Gestion Active Directory (droits d’accès dans annuaire Active Directory et création de script GPO)
             - Administration de Windows (10 & 11)
             - Administration de messagerie Exchange dur office 365
@@ -98,8 +97,6 @@ experiences:
             - Utilisation quotidienne de Linux (Debian, Ubuntu)
             - Utilisation de gestionnaire de paquets (Chocolatey, npm, apt)
             - Gestion de réseaux (IPv4 / VLAN)
-            - Bases de données relationnelles (XAMPP, MySQL, requêtes SQL, Access,...)
-            - Notions ITIL
 
       - role: Formateur secourisme
         time: Depuis 2012
@@ -112,16 +109,8 @@ experiences:
         time: 2017 à 2023
         company: Communauté d’Agglomération du Bassin de Bourg-en-B (01)
         details: |
-            - Gestion de parc informatique (1600 PC et 1800 utilisateurs pour 18 collectivités), système et réseau
-            - Déploiement et paramétrage de postes de travail (MDT)
-            - Gestion des utilisateurs
-            - Gestion Active Directory (droits d’accès dans annuaire Active Directory et création de script GPO)
-            - Administration de Windows (7, 10 & 11)
-            - Administration de messagerie Exchange
+            - Gestion de parc informatique (1600 PC et 1800 utilisateurs pour 18 collectivités),
             - Virtualisation de serveur (VMware, VirtualBox,ProxMox)
-            - Utilisation quotidienne de Linux (Debian, Ubuntu)
-            - Utilisation de gestionnaire de paquets (Chocolatey, npm, apt)
-            - Gestion de réseaux (IPv4 / VLAN)
             - Bases de données relationnelles (XAMPP, MySQL, requêtes SQL, Access,...)
             - Notions ITIL
             - Utilisation du logiciel DeepFreeze pour gestion postes travail dans écoles
