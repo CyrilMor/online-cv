@@ -11,9 +11,7 @@ sidebar:
     tagline: Chargé de projet informatique
     avatar: profile2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: cyril.morel1885@mailo.com
-    phone: 06.32.51.56.34
+    # Sidebar
     website: cyrilmor.github.io/online-cv/ #do not add http://
     linkedin: cyril-morel-b6021a57
 #    github: cyrilmor.github.io/online-cv/ #do not add http://
@@ -110,7 +108,7 @@ experiences:
         details: |
            - Formation Grand Public PSC1 / SST / PSE1
            - Formation Sapeurs-Pompiers Formation Initiale et Continue
-             - role: Chargé de projet informatique
+      - role: Chargé de projet informatique
         time: 2017 à 2023
         company: Communauté d’Agglomération du Bassin de Bourg-en-B (01):
         details: |
