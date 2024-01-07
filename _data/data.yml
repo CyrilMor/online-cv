@@ -55,7 +55,7 @@ career-profile:
     summary: |
       Passionné de technologies, je me suis reconverti dans le domaine de l'informatique en 2017.
       Ma faculté d'adaptation, mon sens de l'organisation et ma conscience professionnelle m'ont permis d'acquérir de solides compétences en systèmes informatiques, gestion de serveurs, support aux utilisateurs.     
-      Ces expériences mon aussi permis de développer mon côté altruiste et pédagogue, et je suis à la recherche de nouvelles opportunités dans ce domaine. Au cours de mon parcours, j’ai acquis de solides compétences en maintenance informatique, gestion de serveurs, support aux utilisateurs.
+      Ces expériences m'ont aussi permis de développer mon côté altruiste et pédagogue, et je suis à la recherche de nouvelles opportunités dans ce domaine. Au cours de mon parcours, j’ai acquis de solides compétences en maintenance informatique, gestion de serveurs, support aux utilisateurs.
 
 education:
     title: Formations
@@ -93,7 +93,7 @@ experiences:
             - Gestion Active Directory (droits d’accès dans annuaire Active Directory et création de script GPO)
             - Administration de Windows (10 & 11)
             - Administration de messagerie Exchange dur office 365
-            - Virtualisation de serveur (VMware, VirtualBox,ProxMox)
+            - Virtualisation de serveur (VMware, VirtualBox,ProxMox,Hyper-V)
             - Utilisation quotidienne de Linux (Debian, Ubuntu)
             - Utilisation de gestionnaire de paquets (Chocolatey, npm, apt)
             - Gestion de réseaux (IPv4 / VLAN)
@@ -110,7 +110,6 @@ experiences:
         company: Communauté d’Agglomération du Bassin de Bourg-en-B (01)
         details: |
             - Gestion de parc informatique (1600 PC et 1800 utilisateurs pour 18 collectivités),
-            - Virtualisation de serveur (VMware, VirtualBox,ProxMox)
             - Bases de données relationnelles (XAMPP, MySQL, requêtes SQL, Access,...)
             - Notions ITIL
             - Utilisation du logiciel DeepFreeze pour gestion postes travail dans écoles
