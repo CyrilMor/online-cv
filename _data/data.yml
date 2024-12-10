@@ -30,7 +30,7 @@ sidebar:
           level: Native
 
         - idiom: Anglais
-          level: Professionnel
+          level: Professionnel (B1)
 
         - idiom: Espagnol
           level: Basique
@@ -47,7 +47,7 @@ sidebar:
         - item: Domotique
           link:          
 
-        - item: Sport (Course à pied, Natation,Rugby,...)
+        - item: Sport (Course à pied, Natation,...)
           link:
 
 career-profile:
@@ -74,12 +74,6 @@ education:
         time: 2005-2006
         details: |
 
-      - degree: BTS Gestion et Maîtrise de l'eau
-      # mention BIEN
-        university: Lycée Agricole de Nîmes (30)
-        time: 2003-2005
-        details: |
-
 experiences:
     title: Expériences
     info:
@@ -91,13 +85,14 @@ experiences:
             - Administration système et réseau
             - Administration solution 3CX
             - Déploiement et paramétrage de postes de travail
-            - Gestion Active Directory (droits d’accès dans annuaire Active Directory et création de script GPO)
+            - Gestion Active Directory
             - Administration de Windows 11
-            - Administration de messagerie Exchange / Office 365
-            - Utilisation de gestionnaire de paquets (Chocolatey, npm, apt)
+            - Administration de messagerie (Office 365)
             - Gestion de réseaux (IPv4 / VLAN)
             - Gestion du site web
-            
+            - Administration d'applications métiers (MEG, CEGID Expert,...)
+            - Accompagnement au changement
+
       - role: Formateur secourisme
         time: Depuis 2012
         company: SDIS01 et UDSP01
@@ -114,6 +109,7 @@ experiences:
             - Déploiement et paramétrage de postes de travail
             - Gestion Active Directory (droits d’accès dans annuaire Active Directory et création de script GPO)
             - Administration de Windows (10 & 11)
+            - Administration de messagerie (MS Exchange)
             - Gestion de parc informatique (1600 PC et 1800 utilisateurs pour 18 collectivités),
             - Virtualisation de serveur (VMware, VirtualBox,ProxMox,Hyper-V)
             - Utilisation quotidienne de Linux (Debian, Ubuntu)            
@@ -129,14 +125,6 @@ experiences:
             - Modélisation du réseau routier sur SIG (QGIS) pour optimiser la gestion patrimoniale
             - Développement d’outils internes en HTML/CSS pour optimiser les procédures internes
             - Administration du logiciel de services techniques ATAL (basé sur SQL Server)
-
-      - role: Maître d'oeuvre (VRD)
-        time: 2009 - 2012
-        company: Cabinet de géomètres AXIS-Conseils à Vonnas (01)
-        details: |
-          Conception et gestion de projet de Voirie et Réseaux Divers:
-            - Suivi de chantiers
-            - Gestion des procédures d'appel d'offres
 
 #certifications:
  #     title: Certifications
@@ -157,6 +145,9 @@ projects:
       Projets suivis à titre professionnel, extra-professionnel ou personnel:
 #       section.
     assignments:
+      - title: Gestion de projets 
+        tagline: "Changement d'outil de prodution comptable, Formation utilisateurs et clients,..."
+     
       - title: HomeAssistant
         link: "https://www.home-assistant.io/"
         tagline: "Gestion Domotique: Commande des volets roulants, Eclairage, Vidéosurveillance, Alarme,..."
