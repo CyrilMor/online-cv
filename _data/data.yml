@@ -54,7 +54,7 @@ career-profile:
     title: En bref
     summary: |
       Responsable informatique dans un cabinet d’expertise comptable depuis 2023, je mets mes compétences en adaptabilité, organisation et rigueur au service de la performance numérique. Reconverti après un parcours technique, j'ai à cœur de moderniser et sécuriser les systèmes d'information pour faciliter le travail des équipes au quotidien.
-      Pédagogue dans mon approche, j’accompagne les utilisateurs à prendre en main les outils numériques, en alliant écoute et solutions adaptées.
+      Pédagogue dans mon approche, j’accompagne les utilisateurs à prendre en main les outils numériques, en alliant proactivité, écoute et solutions adaptées.
       Passionné par la transformation numérique et attentif aux enjeux de cybersécurité, je reste en veille pour anticiper les besoins et proposer des solutions performantes, sécurisées et innovantes.
       Je suis toujours ouvert aux échanges sur vos projets IT et vos besoins en digitalisation.
 education:
@@ -65,9 +65,10 @@ education:
         time: Depuis 2015, complétée par des formations à distance (MOOC)
         details: |
           Suivi d'une formation hors temps de travail pour approfondir mes connaissances.
+            - Gestion de projet informatique avec méthodes agiles (SCRUM)          
             - Gestion de projet selon méthode Warterfall
-            - Gestion de projet informatique avec méthodes agiles (SCRUM)
-            
+            - Programmation en JAVA, TypeScript, Javascript
+            - Utilisation d'IDE (Eclipse, NetBeans, Visual Studio)
       - degree: Licence professionnelle
       # mention BIEN
         university: IUT de Nancy-Brabois, Département Génie-Civil (54)
