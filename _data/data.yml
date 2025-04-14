@@ -47,7 +47,7 @@ sidebar:
         - item: Domotique
           link:          
 
-        - item: Sport (Course à pied, Natation,...)
+        - item: Sport (Course à pied, Trail, Natation,...)
           link:
 
 career-profile:
@@ -216,8 +216,11 @@ skills:
         level: 95%
 
       - name: Planification de projets
-        level: 90%     
-
+        level: 90%  
+        
+      - name: Gestion tenant Microsoft 365
+        level: 90%
+        
       - name: Linux (Ubuntu / Debian)
         level: 85%
 
